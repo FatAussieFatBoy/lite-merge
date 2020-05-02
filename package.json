@@ -1,0 +1,26 @@
+{
+  "name": "lite-merge",
+  "version": "1.0.6",
+  "description": "A lightweight deep merging object handler, useful if you need to combine an object or group of objects into one single object overwriting/creating keys and values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "lite-merge",
+    "deep-merge",
+    "merge",
+    "copy",
+    "clone"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatAussieFatBoy/lite-merge.git"
+  },
+  "author": "fataussiefatboy",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/FatAussieFatBoy/lite-merge/issues"
+  },
+  "homepage": "https://github.com/FatAussieFatBoy/lite-merge#readme"
+}
